@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class GameInteraction {
 
-    private static int numberOfAttempts;
+    private int numberOfAttempts;
     private Game newGame;
     /**
      * Вводим размер последовательности цифр

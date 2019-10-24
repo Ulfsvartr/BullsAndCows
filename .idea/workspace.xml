@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c191e5c6-de7b-46ae-b790-daff5b9a513b" name="Default Changelist" comment="" />
+    <list default="true" id="c191e5c6-de7b-46ae-b790-daff5b9a513b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="fb307f6c-51ab-4434-acf9-f5e21eb2a5d2" name="Change string" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -121,8 +123,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="x" value="1052" />
+    <option name="width" value="875" />
     <option name="height" value="1087" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -239,7 +241,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1080" extended-state="0" />
+    <frame x="1052" y="0" width="875" height="1087" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.31728664" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -255,7 +257,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49951783" weight="0.32914045" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4967983" visible="true" weight="0.3284055" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4967983" visible="true" weight="0.3259958" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5096051" side_tool="true" weight="0.3322851" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946696" weight="0.32917964" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3284055" />
